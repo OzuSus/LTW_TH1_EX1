@@ -1,0 +1,37 @@
+th{
+    background-color: rgb(198, 198, 198);
+}
+td{
+    border:1px solid black;
+    box-sizing: inherit;
+
+}
+table{
+    position: relative;
+    border:1px solid black;
+}
+th{
+    border:1px solid black;
+}
+h1{
+    margin-top: 0;
+    text-align: left;
+}
+
+.example{
+    margin-top: -110px;
+}
+.example p {
+    text-align: left;
+    margin-top: 10px;
+}
+.link p {
+    margin: 0;
+}
+.link{
+    margin-top: 0;
+    margin-bottom: 100px;
+}
+.backgroup{
+    background-color: rgb(225,225,65);
+}
